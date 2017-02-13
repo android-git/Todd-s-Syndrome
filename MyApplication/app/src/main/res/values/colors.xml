@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#37474F</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorAccent">#607D8B</color>
+
+    <color name="button_bg_color">#607D8B</color>
+    <color name="submit_btn_color">#37474F</color>
+    <color name="edtTextColor">#FFFFFF</color>
+    <color name="edtTextHintColor">#FFFFFF</color>
+    <color name="app_bg_color">#B0BEC5</color>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Todd’s Syndrome</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_contact">Contact Number</string>
+    <string name="hint_age">Age</string>
+    <string name="hint_height">Height</string>
+    <string name="hint_weight">Weight</string>
+    <string name="question1">Do You have Migraine?</string>
+    <string name="question2">Have you consumed hallucinogenic drugs ever?</string>
+    <string name="option_yes">Yes</string>
+    <string name="option_no">No</string>
+    <string name="txt_gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="no_patient_txt">No Patient Added Yet!</string>
+
+</resources>
